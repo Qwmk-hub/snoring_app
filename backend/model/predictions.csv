@@ -1,0 +1,9 @@
+﻿index,chunk_name,predicted_class,probability
+0,chunk_0,nonsnore,5.443893e-05
+1,chunk_1,nonsnore,0.0035895072
+2,chunk_2,nonsnore,0.06330383
+3,chunk_3,nonsnore,1.39173e-06
+4,chunk_4,nonsnore,3.9245745e-07
+5,chunk_5,nonsnore,2.6213385e-07
+6,chunk_6,nonsnore,4.5222217e-07
+7,chunk_7,nonsnore,3.2553123e-07
